@@ -22,6 +22,7 @@ public class Score {
 		sb.append("\n평균 : " + String.format("%.1f",((kor+math+eng)/3.0f)) + " 점");
 		
 		System.out.println(sb);
+		scan.close();
 	}
 
 }
