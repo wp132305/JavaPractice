@@ -16,6 +16,5 @@ public class IdolGroup {
 			}
 			System.out.println();
 		}
-	}
-
+	}	
 }
