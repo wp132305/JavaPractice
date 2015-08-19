@@ -24,8 +24,4 @@ public class Triangle extends Figure{
 		System.out.print("삼각형 ");
 		super.printCenter();
 	}
-	
-	protected void moveFigure(int x, int y) {
-		super.moveFigure(x, y);
-	}
 }
