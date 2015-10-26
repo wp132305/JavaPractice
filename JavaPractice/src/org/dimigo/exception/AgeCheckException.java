@@ -1,5 +1,6 @@
 package org.dimigo.exception;
 
+@SuppressWarnings("serial")
 public class AgeCheckException extends Exception{
 	
 	public AgeCheckException() {
